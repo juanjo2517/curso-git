@@ -10,3 +10,4 @@ class Chat:
     def mostrar_chat212(self):
 
         print("El comentario dice: "+self.descripcion)
+        print("Hello World") 
